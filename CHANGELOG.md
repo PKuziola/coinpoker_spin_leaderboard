@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.1.0
+
+### Added
+- Integration with Apache Superset for data visualization, allowing enhanced exploration of processed data.
+
+### Changed
+- Updated project structure to include Superset deployment and configuration details.
+
+### Fixed
+- No issues to fix.
+
+### Known Issues
+- README.md needs to be updated.
+- Data visualizations not prepared yet.
+
+
 ## v1.0.0
 
 ### Added
